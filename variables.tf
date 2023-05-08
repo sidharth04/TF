@@ -7,3 +7,6 @@ variable "locatoin" {
 variable "appplanname" {
   type = string
 }
+variable "appname" {
+  type = string
+}
